@@ -30,7 +30,6 @@
 *.exe
 *.out
 *.app
-tippecanoe
 tile-join
 tippecanoe-decode
 tippecanoe-enumerate
