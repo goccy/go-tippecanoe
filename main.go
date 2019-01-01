@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	_ "github.com/goccy/tippecanoe/tippecanoe"
+	_ "github.com/goccy/go-tippecanoe/tippecanoe"
 )
 
 func main() {

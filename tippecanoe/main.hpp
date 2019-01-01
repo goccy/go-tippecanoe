@@ -4,6 +4,7 @@
 #include <stddef.h>
 #include <atomic>
 #include <string>
+#include "bridge.h"
 
 struct index {
 	long long start = 0;
